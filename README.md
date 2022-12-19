@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-** The two main file to check here in Form.js and answers.md. All the css are in index.css file **
+**The two main file to check here are Form.js and answers.md inside src folder. All the css are in index.css file**
